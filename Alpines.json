@@ -46,8 +46,8 @@
         "CHAT_GREY": "#46626d"
         },
           "background": {
-    "blur": 10,
+    "blur": 25,
     "url": "https://cdn.discordapp.com/attachments/993521231112450088/993521937953333338/iPhone_Wallpaper.jpg",
-    "alpha": 1.0
+    "alpha": 0.75
     }
 }
