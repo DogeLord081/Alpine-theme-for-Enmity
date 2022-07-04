@@ -2,6 +2,11 @@
 	"name": "Alpines",
 	"author": "DogeLord#1216",
 	"version": "1.2",
+	"background": {
+		"blur": "0",
+		"url": "https://i.imgur.com/Yk7gzFo.jpg",
+		"alpha": "0.75"
+	},
 	"theme_color_map": {
 		"KEYBOARD": ["#46626d", "#FFFFFF"],
 		"BACKGROUND_PRIMARY": ["#46626d", "#FFFFFF"],
