@@ -1,7 +1,7 @@
 {
     "name": "Alpines",
     "author": "DogeLord#1216",
-    "version": "1.3",
+    "version": "1.4",
     "theme_color_map": {
         "KEYBOARD": ["#46626d", "#FFFFFF"],
         "BACKGROUND_PRIMARY": ["#46626d", "#FFFFFF"],
@@ -46,7 +46,7 @@
         "CHAT_GREY": "#46626d"
         },
           "background": {
-    "blur": 1,
+    "blur": 10,
     "url": "https://cdn.discordapp.com/attachments/993521231112450088/993521937953333338/iPhone_Wallpaper.jpg",
     "alpha": 1.0
     }
