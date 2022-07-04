@@ -18,7 +18,7 @@
         "BACKGROUND_MODIFIER_SELECTED": ["#6d8287", "#FFFFFF"],
         "BACKGROUND_MODIFIER_ACCENT": ["#6d8287", "#FFFFFF"],
         "CHANNELTEXTAREA_BACKGROUND": ["transparent", "#FFFFFF"],
-        "CHANNELS_DEFAULT": ["#c27c64", "#FFFFFF"],
+        "CHANNELS_DEFAULT": ["#d9f4fa", "#FFFFFF"],
         "HEADER_PRIMARY": ["#FFFFFF", "#FFFFFF"],
         "HEADER_SECONDARY": ["#f7ffdd", "#FFFFFF"],
         "INTERACTIVE_ACTIVE": ["#FFFFFF", "#FFFFFF"],
@@ -26,15 +26,15 @@
         "INTERACTIVE_NORMAL": ["#f7ffdd", "#FFFFFF"],
         "TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"],
         "TEXT_MUTED": ["#f7ffdd", "#FFFFFF"],
-	"TEXT_LINK": ["#7e8c8f", "#FFFFFF"]
+	"TEXT_LINK": ["#d9f4fa", "#FFFFFF"]
     },
     "colours": {
         "PRIMARY_DARK": "#46626d",
         "PRIMARY_DARK_100": "#FFFFFF",
         "PRIMARY_DARK_200": "#FFFFFF",
-        "PRIMARY_DARK_300": "#7e8c8f",
+        "PRIMARY_DARK_300": "#d9f4fa",
         "PRIMARY_DARK_360": "#bfbfbf",
-        "PRIMARY_DARK_400": "#7e8c8f",
+        "PRIMARY_DARK_400": "#d9f4fa",
         "PRIMARY_DARK_500": "#6d8287",
         "PRIMARY_DARK_600": "#46626d",
         "PRIMARY_DARK_630": "#46626d",
